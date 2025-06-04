@@ -1,2 +1,2 @@
 # application-properties
-Application properties for multiple services
+External application properties for multiple services.
